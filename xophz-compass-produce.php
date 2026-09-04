@@ -13,7 +13,7 @@
  * Plugin Name:       Xophz Local Produce
  * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-produce
  * Description:       Universal EDVEX Data Royalty Engine & Farmer's Market for COMPASS & YouMeOS.
- * Version:           26.8.21
+ * Version:           26.9.4-185
  * Author:            Hall of the Gods, Inc.
  * Author URI:        https://hallofthegods.com/
  * License:           GPL-2.0+
@@ -27,7 +27,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-define( 'XOPHZ_COMPASS_PRODUCE_VERSION', '26.8.21' );
+define( 'XOPHZ_COMPASS_PRODUCE_VERSION', '26.9.4-185' );
 define( 'XOPHZ_COMPASS_PRODUCE_PATH', plugin_dir_path( __FILE__ ) );
 define( 'XOPHZ_COMPASS_PRODUCE_URL', plugin_dir_url( __FILE__ ) );
 
