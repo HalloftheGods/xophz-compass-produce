@@ -43,8 +43,7 @@ function activate_xophz_compass_produce() {
  * Deactivation hook handler.
  */
 function deactivate_xophz_compass_produce() {
-	require_once plugin_dir_path( __FILE__ ) . 'includes/class-xophz-compass-produce-deactivator.php';
-	Xophz_Compass_Produce_Deactivator::deactivate();
+	flush_rewrite_rules();
 }
 
 register_activation_hook( __FILE__, 'activate_xophz_compass_produce' );
