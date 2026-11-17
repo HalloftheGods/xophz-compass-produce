@@ -14,8 +14,8 @@
  * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-produce
  * Description:       Universal EDVEX Data Royalty Engine & Farmer's Market for COMPASS & YouMeOS.
  * Version:           26.9.5
- * Author:            Hall of the Gods, Inc.
- * Author URI:        https://hallofthegods.com/
+ * Author:            My Compass Consulting
+ * Author URI:        https://mycompassconsulting.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       xophz-compass-produce
